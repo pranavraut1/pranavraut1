@@ -1,4 +1,4 @@
-Portpoil page of resume responsive for visit- http://127.0.0.1:5500/t.html
+
 # 👨‍💻 Pranav Raut | Software Developer
 
 📧 Email: pranavraut7028@gmail.com  
