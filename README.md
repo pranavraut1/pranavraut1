@@ -1,7 +1,7 @@
 
 # 👨‍💻 Pranav Raut | Software Developer
 
-📧 Email: pranavraut585@gmail.com  
+📧 Email: pranavraut7028@gmail.com  
 📞 Phone: +91 7028026569  
 📍 Location: Baner, Pune, Maharashtra  
 🔗 GitHub: https://github.com/your-username  
