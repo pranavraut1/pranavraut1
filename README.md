@@ -1,4 +1,4 @@
-## Pranav_Raut_CV
+
 # 👨‍💻 Pranav Raut | Software Developer
 
 📧 Email: pranavraut585@gmail.com  
@@ -85,14 +85,6 @@ New Arts College, Ahilya Nagar
 - Built RESTful APIs using Spring Boot.
 - Used Hibernate ORM for database connectivity with MySQL.
 - Followed MVC architecture for maintainable design.
-
----
-
-## 🌟 Strengths
-- Strong problem-solving skills  
-- Team collaboration  
-- Quick learner  
-- Backend development expertise  
 
 ---
 
