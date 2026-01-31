@@ -27,28 +27,21 @@ New Arts College, Ahilya Nagar
 
 ### 🧑‍💻 Programming Languages
 - Core Java, JavaScript, SQL, HTML, CSS
-
 ### ⚙️ Core Java Concepts
 - OOPS Concepts, Collections, Exception Handling
-
 ### 🧩 Frameworks & Technologies
 - Spring Boot, Spring, Spring MVC, REST API
-
 ### 🛠️ Tools
 - Git, Eclipse IDE, VS Code
-
 ### 🗄️ Database
 - MySQL, Hibernate, JDBC
 
 ---
-
 ## 💼 Internship Experience
 
 ### 👨‍💻 Developer Intern  
 **Sphinx Solutions Pvt. Ltd**
-
 ### 📌 Project: Amazon Vendor Central Automation
-
 - Developed an automated solution using Java and Playwright to extract data and download files from Amazon Vendor Central.
 - Automated workflows including login, navigation, invoice generation, and downloading reports for multiple vendors.
 - Designed MySQL database schemas to store extracted data.
@@ -59,17 +52,14 @@ New Arts College, Ahilya Nagar
 ---
 
 ## 📜 Certifications
-
 - ✅ JAVA Full Stack Development Course – Pune  
 - ✅ TCS NQT – Information Technology (62%)
 
 ---
 
 ## 🚀 Projects
-
 ### 📦 Online Courier Service Management System
 **Technologies:** Core Java, MySQL, SQL, HTML, CSS, JavaScript  
-
 - Developed a web-based courier management system to track and manage deliveries.
 - Designed responsive UI using HTML, CSS, and JavaScript.
 - Implemented backend operations using Core Java and MySQL.
@@ -79,7 +69,6 @@ New Arts College, Ahilya Nagar
 
 ### 🎓 Student Management System
 **Technologies:** Spring Boot, Spring MVC, REST API, Hibernate  
-
 - Developed a full-stack application to manage student records.
 - Implemented CRUD operations for student details (name, phone, email).
 - Built RESTful APIs using Spring Boot.
@@ -89,7 +78,7 @@ New Arts College, Ahilya Nagar
 ---
 
 ## 📫 Contact Me
-📧 Email: pranavraut585@gmail.com  
+📧 Email: pranavraut7028@gmail.com  
 🔗 GitHub: https://github.com/your-username  
 
 
