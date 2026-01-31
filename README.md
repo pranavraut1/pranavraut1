@@ -4,7 +4,7 @@
 📧 Email: pranavraut7028@gmail.com  
 📞 Phone: +91 7028026569  
 📍 Location: Baner, Pune, Maharashtra  
-🔗 GitHub: https://github.com/your-username  
+🔗 GitHub: https://github.com/pranavraut1
 
 ---
 
@@ -75,11 +75,6 @@ New Arts College, Ahilya Nagar
 - Used Hibernate ORM for database connectivity with MySQL.
 - Followed MVC architecture for maintainable design.
 
----
-
-## 📫 Contact Me
-📧 Email: pranavraut7028@gmail.com  
-🔗 GitHub: https://github.com/your-username  
 
 
 
